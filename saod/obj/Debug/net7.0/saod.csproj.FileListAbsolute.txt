@@ -1,0 +1,15 @@
+C:\Users\KhDN.22\source\repos\saod\bin\Debug\net7.0\saod.exe
+C:\Users\KhDN.22\source\repos\saod\bin\Debug\net7.0\saod.deps.json
+C:\Users\KhDN.22\source\repos\saod\bin\Debug\net7.0\saod.runtimeconfig.json
+C:\Users\KhDN.22\source\repos\saod\bin\Debug\net7.0\saod.dll
+C:\Users\KhDN.22\source\repos\saod\bin\Debug\net7.0\saod.pdb
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\saod.csproj.AssemblyReference.cache
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\saod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\saod.AssemblyInfoInputs.cache
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\saod.AssemblyInfo.cs
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\saod.csproj.CoreCompileInputs.cache
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\saod.dll
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\refint\saod.dll
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\saod.pdb
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\saod.genruntimeconfig.cache
+C:\Users\KhDN.22\source\repos\saod\obj\Debug\net7.0\ref\saod.dll
